@@ -2,4 +2,5 @@
 - If it can be automated, why wouldn't it be?
 - Python/C++/FSWD
 - Controlling everything from emails/text > needing my laptop
-- You can reach me at @bluebillbank on Telegram
+- Telegram: @bluebillbank
+- Email: jacob@lloyddeveloper.com
