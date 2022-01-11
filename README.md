@@ -1,6 +1,6 @@
-- I’m @insomniacrypto
+- name = jacob_lloyd
 - If it can be automated, why wouldn't it be?
-- Python/C++/FSWD
-- Controlling everything from emails/text > needing my laptop
+- Python/C++
 - Telegram: @bluebillbank
 - Email: jacob@lloyddeveloper.com
+- Website: jacob@lloyddeveloper.com
