@@ -3,4 +3,4 @@
 - Python/C++
 - Telegram: @bluebillbank
 - Email: jacob@lloyddeveloper.com
-- Website: jacob@lloyddeveloper.com
+- Website: lloyddeveloper.com
