@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [my business](https://saberliquidation.com/)
 
-- 🌱 I’m currently learning **selenium, deep learning models, and C++**
+- 🌱 I’m currently working with **Selenium, Machine Learning, and MySQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jacobmlloyd?tab=repositories](https://github.com/jacobmlloyd?tab=repositories)
+- 👨‍💻 My public projects are available at [https://github.com/jacobmlloyd?tab=repositories](https://github.com/jacobmlloyd?tab=repositories)
 
 - 💬 Ask me about **Python and Web Automation**
 
-- 📫 How to reach me **jacob@lloyddeveloper.com**
+- 📫 The easiest way to reach me is to email me at **jacob@lloyddeveloper.com**
 
 - ⚡ Fun fact **my programming skills make up for my dad jokes**
 
