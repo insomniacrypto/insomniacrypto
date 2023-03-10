@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my business](https://saberliquidation.com/)
 
-- 🌱 I’m currently working with **Selenium, Machine Learning, and MySQL**
+- 🌱 I’m currently working with **Machine Learning, Backend APIs, and Automation**
 
 - 👨‍💻 My public projects are available at [https://github.com/jacobmlloyd?tab=repositories](https://github.com/jacobmlloyd?tab=repositories)
 
